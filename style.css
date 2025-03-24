@@ -1,0 +1,89 @@
+.bg-dark {
+    background-color: #800000;
+    color: red;
+}
+
+.nav1{
+    margin-left: 250px;
+}
+
+#home {
+    background-color: rgb(177, 54, 54);
+    color: azure;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#skills {
+    background-color: rgb(134, 40, 40);
+    color: azure;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#education {
+    background-color: rgb(155, 48, 48);
+    color: azure;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.css {
+    mix-blend-mode: color-burn;
+}
+
+.contact {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn-red {
+    background-color: #800000;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 6px 10px;
+}
+
+.red {
+    background-color: #c53c3c;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav {
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.table {
+    background-color: #8a1e1e;
+    border-radius: 20px;
+}
+
+.table p {
+    background-color: #8a1e1e;
+}
+.ed{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #bb2d2d;
+    color: white;
+    border-radius: 200px;
+    width: 20%;
+    padding: 8px;
+}
+.ed1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #bb2d2d;
+    color: white;
+    border-radius: 200px;
+    width: 15%;
+    padding: 8px;
+}
